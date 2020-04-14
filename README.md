@@ -1,5 +1,4 @@
-# vagrant-experiments
-Vagrant Experiments
+# Vagrant Experiments
 
 ## Add the box
 ```
